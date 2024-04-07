@@ -1,6 +1,6 @@
 # AdventureWorks Dashboard
 
-<!-- ![Dashboard Gif](gifs/AdventureWorksDemo.gif) -->
+![Dashboard Gif](<a href="Video\Power BI.mp4"></a>)
 
 ## Table of Contents
 
