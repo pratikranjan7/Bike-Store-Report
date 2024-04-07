@@ -1,7 +1,5 @@
 # AdventureWorks Dashboard
-
-![Dashboard Gif](https://github.com/pratikranjan7/Bike-Store-Report/blob/main/Video/Power%20BI.mp4)
-
+https://github.com/pratikranjan7/Bike-Store-Report/assets/108509145/19d7bebe-1a8c-481d-bc77-167616b42ee1
 ## Table of Contents
 
 - [Introduction](#introduction)
