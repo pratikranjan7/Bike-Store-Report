@@ -1,4 +1,4 @@
-# AdventureWorks Dashboard
+# BikeStore Dashboard
 https://github.com/pratikranjan7/Bike-Store-Report/assets/108509145/19d7bebe-1a8c-481d-bc77-167616b42ee1
 ## Table of Contents
 
