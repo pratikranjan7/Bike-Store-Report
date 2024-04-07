@@ -1,6 +1,6 @@
 # AdventureWorks Dashboard
 
-![Dashboard Gif](<a href="Video\Power BI.mp4"></a>)
+![Dashboard Gif](https://github.com/pratikranjan7/Bike-Store-Report/blob/main/Video/Power%20BI.mp4)
 
 ## Table of Contents
 
